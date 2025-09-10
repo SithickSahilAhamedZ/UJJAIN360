@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "task.showDecorations": true,
+        "terminal.integrated.defaultProfile.windows": "PowerShell",
+        "workbench.startupEditor": "welcomePage"
+    },
+    "extensions": {
+        "recommendations": [
+            "ms-vscode.vscode-typescript-next",
+            "bradlc.vscode-tailwindcss",
+            "esbenp.prettier-vscode"
+        ]
+    },
+    "tasks": {
+        "version": "2.0.0",
+        "tasks": []
+    }
+}
